@@ -1,0 +1,210 @@
+.box_1 {
+  width: inherit;
+  height: 71vw;
+  position: relative;
+  overflow-x: clip;
+}
+.box_2 {
+  width: inherit;
+  height: 71vw;
+  position: relative;
+  overflow-x: clip;
+}
+.box_3 {
+  width: inherit;
+  height: 71vw;
+  position: relative;
+  overflow-x: clip;
+}
+.box_1 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.box_2 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.box_3 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.box_3 > * > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.obare_1 {
+  height: 85vw;
+  width: 100vw;
+  background-image: url('../images/obare_1.jpg');
+}
+
+.box_1_text_1 {
+  top: 15vw;
+  left: 4vw
+}
+.box_1_text_2 {
+  top: 22vw;
+  left: 34vw;
+  transform: rotate(346deg)
+}
+.box_1_text_3 {
+  top: 10vw;
+  left: 51vw;
+  transform: rotate(359deg);
+}
+.box_1_text_4 {
+  top: 5vw;
+  left: 78vw;
+  transform: rotate(4.5deg);
+}
+/* .back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 213.6vw;
+  opacity: 30%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/back.jpg');
+} */
+.obare_arrow {
+  top: 8vw;
+  left: 26vw;
+  height: 24vw;
+  width: 71vw;
+  background-image: url('../images/obare_arrow_1.svg');
+}
+.obare_2 {
+  top: 28vw;
+  left: 11vw;
+  height: 20.5vw;
+  width: 52vw;
+  background-image: url('../images/obare_2.svg');
+}
+.obare_2_text {
+  position: absolute;
+  top: 5.4vw;
+  left: 5vw;
+  height: 10vw;
+  width: 34vw;
+}
+.box_2_text_1 {
+  top: 5.9vw;
+  left: 31vw;
+  height: 10vw;
+  width: 34vw;
+  transform: rotate(340.5deg);
+}
+.map {
+  top: 6vw;
+  left: 8vw;
+  height: 59vw;
+  width: 80vw;
+  background-image: url('../images/map.png');
+}
+.map_text {
+  position: absolute;
+  top: 34vw;
+  left: 14vw;
+  width: 9vw;
+  text-align: right;
+  transform: rotate(33deg);
+}
+.hand_1 {
+  top: 21.5vw;
+  left: 0vw;
+  height: 32vw;
+  width: 23vw;
+  background-image: url('../images/hand_1.svg');
+}
+.hand_2 {
+  top: 11.5vw;
+  left: 68.3vw;
+  height: 39vw;
+  width: 33vw;
+  background-image: url('../images/hand_2.svg');
+}
+.box_3_text_1 {
+  top: 7.9vw;
+  left: 6vw;
+  width: 6vw;
+  transform: rotate(340.5deg);
+}
+.box_3_text_2 {
+  top: 7.9vw;
+  left: 19vw;
+  width: 14vw;
+  transform: rotate(22deg);
+}
+.box_3_text_3 {
+  top: 20.4vw;
+  left: 30vw;
+  width: 9vw;
+  transform: rotate(76deg);
+}
+.box_3_text_4 {
+  top: 24.9vw;
+  left: 41vw;
+  width: 34vw;
+  transform: rotate(4.3deg);
+}
+.hole_text {
+  top: 28.9vw;
+  left: 3vw;
+  height: 10vw;
+  width: 29vw;
+}
+.obare_arrow_2 {
+  top: 8.5vw;
+  left: 5vw;
+  height: 28.5vw;
+  width: 67vw;
+  background-image: url('../images/obare_arrow_2.svg');
+}
+.book {
+  top: -7vw;
+  left: 64.3vw;
+  height: 54vw;
+  width: 37vw;
+  transform: rotate(333deg);
+  background-image: url('../images/book.jpg');
+}
+.hole {
+  top: 13.5vw;
+  left: 1.3vw;
+  height: 41vw;
+  width: 39vw;
+  background-image: url('../images/hole.svg');
+}
+.hole_eyes {
+  top: 13.5vw;
+  left: 5.3vw;
+  height: 7.5vw;
+  width: 23vw;
+  transform: rotate(10deg);
+  background-image: url('../images/hole_eyes.svg');
+}
+.oblet_link {
+  opacity: 30%;
+  top: 23vh;
+  left: 121vh;
+  /* background-color: red; */
+  height: 76vh;
+  width: 58vh;
+  position: absolute;
+}
+.otchet_link {
+  opacity: 30%;
+  top: -15vh;
+  left: 134vh;
+  /* background-color: red; */
+  height: 126vh;
+  width: 66vh;
+  position: absolute;
+  transform: rotate(333deg);
+}

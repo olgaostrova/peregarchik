@@ -1,0 +1,86 @@
+body {
+  background-color: #E4E4E4;
+  width: 100%;
+}
+
+.top_menu_zero {
+  position: relative;
+  height: 4vw;
+  width: inherit;
+  top: 0px;
+  left: 0px;
+  background-color: #E4E4E4;
+}
+
+.top_menu {
+  height: 4vw;
+  width: inherit;
+  top: 0px;
+  left: 0px;
+  background-color: #E4E4E4;
+  position: fixed;
+}
+.top_menu > * {
+  font-family: 'Winter';
+  position: relative;
+  padding-left: 3vw;
+  padding-top: 0.7vw;
+  color: #9E9E9E;
+  font-size: 3vw;
+  display: inline-block;
+  }
+.top_menu > *:hover {
+  font-style: italic;
+  color: #FF9330;
+}
+a {
+  font-family: "Winter";
+  text-decoration: none;
+}
+p {
+  font-family: "Winter";
+}
+.it {
+  font-family: 'Winter';
+  font-style: italic;
+}
+.fs90 {
+  font-size: 6.5vw;
+}
+.fs50 {
+  font-size: 3.5vw;
+}
+.fs80 {
+    font-size: 9.5vh;
+}
+.fs40 {
+    font-size: 5.5vh;
+}
+.fs30 {
+  font-size: 2.07vw;
+  line-height: 2.7vw;
+}
+.fs20 {
+  font-size: 2.9vh;
+  line-height: 3.3vh;
+}
+.fs15 {
+  font-size: 2.45vh;
+  line-height: 3.4vh;
+}
+.orange_text {
+  color: #FF9330;
+}
+
+.white_text {
+  color: #E4E4E4;
+}
+.black_text {
+  color: #131313;
+}
+
+.go_back {
+  top: 91vh;
+  left: 122vh;
+  position: absolute;
+}

@@ -1,0 +1,48 @@
+.events_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.events_box_1 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.events_box_1 > * > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.events {
+  top: 2vh;
+  left: 1vh;
+  width: 131vh;
+  height: 92vh;
+  background-image: url('../images/events.svg');
+}
+.events_text_1 {
+  top: 19vh;
+  left: 26vh;
+}
+.events_text_2 {
+  top: 48vh;
+  left: 98vh;
+}
+.events_text_3 {
+  top: 59vh;
+  left: 1vh;
+}
+.events_text_4 {
+  top: 26vh;
+  left: 62vh;
+}
+.events_text_5 {
+  top: 55vh;
+  left: 98vh;
+}
+.events_text_6 {
+  top: 67vh;
+  left: 5vh;
+}

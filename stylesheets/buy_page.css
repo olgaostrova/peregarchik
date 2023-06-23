@@ -1,0 +1,29 @@
+.buy_page_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/buy_page.svg');
+}
+.all_back {
+  opacity: 30%;
+  top: 90vh;
+  left: 145vh;
+  /* background-color: red; */
+  height: 4vh;
+  width: 19vh;
+  position: absolute;
+}
+
+.shop_cash_link {
+  opacity: 30%;
+  top: 74vh;
+  left: 30vh;
+  /* background-color: red; */
+  height: 23vh;
+  width: 19vh;
+  position: absolute;
+}

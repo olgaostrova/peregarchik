@@ -1,0 +1,29 @@
+.form {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/form.svg');
+}
+.o_404 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/404.svg');
+}
+.form_link {
+  opacity: 30%;
+  top: 13vh;
+  left: 149vh;
+  background-color: red;
+  height: 12vh;
+  width: 13vh;
+  position: absolute;
+}

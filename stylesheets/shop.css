@@ -1,0 +1,134 @@
+.shop_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.shop_box_1 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.shop_box_1 > * > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.shop_back {
+  top: 0;
+  left: 0;
+  width: 140vh;
+  height: 100vh;
+  opacity: 30%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/shop_back.jpg');
+}
+.case_box {
+  top: 54vh;
+  left: 24vh;
+  width: 31vh;
+  height: 42vh;
+  background-image: url('../images/case.png');
+}
+.glass_box {
+  top: 14vh;
+  left: 4vh;
+  width: 39vh;
+  height: 39vh;
+  background-image: url('../images/plastic_glass.png');
+}
+.two_box {
+  top: 11vh;
+  left: 91vh;
+  width: 50vh;
+  height: 37vh;
+  background-image: url('../images/two.png');
+}
+.drinks_box {
+  top: 34vh;
+  left: 55vh;
+  width: 32vh;
+  height: 32vh;
+  background-image: url('../images/drinks.png');
+}
+.notebook_box {
+  top: 60vh;
+  left: 87vh;
+  width: 38vh;
+  height: 37vh;
+  background-image: url('../images/notebook.png');
+}
+
+.case_cost {
+  top: 20vh;
+  left: 24vh;
+  width: 14vh;
+  height: 10vh;
+  background-image: url('../images/case_cost.svg');
+}
+.glass_cost {
+  top: 6vh;
+  left: 31vh;
+  width: 15vh;
+  height: 9vh;
+  background-image: url('../images/glass_cost.svg');
+}
+.two_cost {
+  top: -4vh;
+  left: 23vh;
+  width: 18vh;
+  height: 11vh;
+  background-image: url('../images/two_cost.svg');
+}
+.drinks_cost {
+  top: -7vh;
+  left: 10vh;
+  width: 32vh;
+  height: 11vh;
+  background-image: url('../images/drinks_cost.svg');
+}
+.notebook_cost {
+  top: 0vh;
+  left: 27vh;
+  width: 25vh;
+  height: 9vh;
+  background-image: url('../images/notebook_cost.svg');
+}
+.case_text {
+  top: 30vh;
+  left: 30vh;
+}
+.glass_text {
+  top: 0vh;
+  left: 36vh;
+}
+.two_text {
+  top: -2vh;
+  left: -8vh;
+}
+.notebook_text {
+  top: -6vh;
+  left: 23vh;
+}
+.drinks_text {
+  top: -13vh;
+  left: 11vh;
+}
+.trash {
+  top: 75vh;
+  left: 6vh;
+  width: 16vh;
+  height: 19vh;
+  background-image: url('../images/trash2.svg');
+}
+.shop_cash_link_2 {
+  opacity: 30%;
+  top: 74vh;
+  left: 4vh;
+  /* background-color: red; */
+  height: 23vh;
+  width: 19vh;
+  position: absolute;
+}

@@ -1,0 +1,30 @@
+@import "reset.css";
+@import "index.css";
+@import "obare.css";
+@import "afisha.css";
+@import "shop.css";
+@import "all_files.css";
+@import "menu.css";
+@import "events.css";
+@import "buy_page.css";
+@import "event_page.css";
+@import "menu_cash.css";
+@import "shop_cash.css";
+@import "form.css";
+@font-face {
+    font-family: 'Winter';
+    src: url('../fonts/WinterSansTrial-Regular.woff2') format('woff2'),
+        url('../fonts/WinterSansTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    /* font-display: swap; */
+}
+
+@font-face {
+    font-family: 'Winter';
+    src: url('../fonts/WinterSansTrial-Italic.woff2') format('woff2'),
+        url('../fonts/WinterSansTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    /* font-display: swap; */
+}

@@ -1,0 +1,88 @@
+.food_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.food_box_1 > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.food_box_1 > * > * {
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.food_back {
+  top: 0;
+  left: 0;
+  width: 140vh;
+  height: 100vh;
+  opacity: 30%;
+  background-image: url('../images/menu_back.jpg');
+}
+.paper {
+  top: -1vh;
+  left: -33vh;
+  width: 171vh;
+  height: 102vh;
+  background-image: url('../images/paper.svg');
+}
+.paper {
+  top: 14vh;
+  left: -31vh;
+  width: 171vh;
+  height: 85vh;
+  background-image: url('../images/paper.svg');
+}
+.trash2 {
+  top: 71vh;
+  left: 4vh;
+  width: 171vh;
+  height: 23vh;
+  background-image: url('../images/trash2.svg');
+}
+.c_orange {
+  width: 4vh;
+  height: 4vh;
+  background-image: url('../images/c_orange.svg');
+}
+.c_1 {
+  top: 21vh;
+  left: 43vh;
+}
+.c_2 {
+  top: 35vh;
+  left: 39vh;
+}
+.c_3 {
+  top: 26vh;
+  left: 64vh;
+}
+.c_4 {
+  top: 45vh;
+  left: 66vh;
+}
+.c_5 {
+  top: 55vh;
+  left: 65vh;
+}
+.c_6 {
+  top: 67vh;
+  left: 86vh;
+}
+.c_7 {
+  top: 74vh;
+  left: 90vh;
+}
+.shop_cash_link_3 {
+  opacity: 30%;
+  top: 71vh;
+  left: 29vh;
+  /* background-color: red; */
+  height: 23vh;
+  width: 19vh;
+  position: absolute;
+}

@@ -1,0 +1,19 @@
+.shop_cash_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/shop_cash.svg');
+}
+.shop_cash_back {
+  opacity: 30%;
+  top: 13vh;
+  left: 149vh;
+  /* background-color: red; */
+  height: 11vh;
+  width: 13vh;
+  position: absolute;
+}

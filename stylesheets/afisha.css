@@ -1,0 +1,308 @@
+.afisha_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.afisha_box_1 > * {
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.afisha_box_1 > * > * {
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.afisha_tail {
+  position: absolute;
+  top: 76vh;
+  left: 2vh;
+  height: 24vh;
+  width: 38vh;
+  background-image: url('../images/tail.svg');
+}
+.afisha_back {
+  margin: 0 auto;
+  position: relative;
+  /* top: 0;
+  left: 0; */
+  width: 140vh;
+  height: 100vh;
+  opacity: 45%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/afisha_back.jpg');
+}
+.afisha_1 {
+  position: absolute;
+  top: 16vh;
+  left: 82vh;
+  height: 51vh;
+  width: 59vh;
+  background-image: url('../images/afisha_1.svg');
+}
+.afisha_1 > * {
+  position: absolute;
+}
+.afisha_text_1 {
+  top: 20vh;
+  left: 42vh;
+}
+.afisha_text_2 {
+  top: 29vh;
+  left: 21vh;
+}
+.afisha_text_3 {
+  top: 42vh;
+  left: 39vh;
+}
+.afisha_text_4 {
+  top: 4vh;
+  left: 5.5vh;
+  width: 10vh;
+}
+.afisha_text_5 {
+  top: 16.6vh;
+  left: 35vh;
+}
+.afisha_text_6 {
+  top: 25.4vh;
+  left: 10.3vh;
+}
+.afisha_text_7 {
+  top: 35vh;
+  left: 30vh;
+  width: 10vh;
+}
+.by_ticket_button {
+  position: absolute;
+  top: 70vh;
+  left: 76vh;
+  height: 21vh;
+  width: 39vh;
+  background-image: url('../images/by_ticket.svg');
+}
+.afisha_link_1 {
+  position: absolute;
+  text-decoration: underline;
+  top: 71vh;
+  left: 117vh;
+  width: 19vh;
+}
+.afisha_text_8 {
+  position: absolute;
+  top: 79vh;
+  left: 117vh;
+}
+.afisha_2 {
+  position: absolute;
+  top: 23vh;
+  left: 11vh;
+  height: 61vh;
+  width: 74vh;
+  background-image: url('../images/afisha_2.svg');
+}
+.afisha_2 > * {
+  position: absolute;
+}
+
+.rec_1 {
+  top: 12vh;
+  left: 5vh;
+  height: 10vh;
+  width: 10vh;
+  background-image: url('../images/rec_1.svg');
+}
+.rec_2 {
+  top: 29vh;
+  left: 7vh;
+  height: 10vh;
+  width: 10vh;
+  background-image: url('../images/rec_2.svg');
+}
+.rec_3 {
+  top: 8vh;
+  left: 23vh;
+  height: 8vh;
+  width: 23vh;
+  background-image: url('../images/rec_3.svg');
+}
+.rec_4 {
+  top: 10vh;
+  left: 38vh;
+  height: 8vh;
+  width: 10vh;
+  background-image: url('../images/rec_4.svg');
+}
+.rec_5 {
+  top: 19vh;
+  left: 15vh;
+  height: 8vh;
+  width: 13vh;
+  background-image: url('../images/rec_5.svg');
+}
+.rec_6 {
+  top: 31vh;
+  left: 55vh;
+  height: 8vh;
+  width: 10vh;
+  background-image: url('../images/rec_6.svg');
+}
+.rec_7 {
+  top: 33vh;
+  left: 22vh;
+  height: 9vh;
+  width: 12vh;
+  background-image: url('../images/rec_7.svg');
+}
+.rec_8 {
+  top: 16vh;
+  left: 54vh;
+  height: 8vh;
+  width: 10vh;
+  background-image: url('../images/rec_8.svg');
+}
+.rec_9 {
+  top: 41vh;
+  left: 13vh;
+  height: 9vh;
+  width: 11vh;
+  background-image: url('../images/rec_9.svg');
+}
+.rec_10 {
+  top: 43vh;
+  left: 47vh;
+  height: 8vh;
+  width: 12vh;
+  background-image: url('../images/rec_10.svg');
+}
+.rec_11 {
+  top: 46vh;
+  left: 28vh;
+  height: 9vh;
+  width: 11vh;
+  background-image: url('../images/rec_11.svg');
+}
+.rec_12 {
+  top: 24vh;
+  left: 44vh;
+  height: 8vh;
+  width: 11vh;
+  background-image: url('../images/rec_12.svg');
+}
+.rec_13 {
+  top: 21vh;
+  left: 29vh;
+  height: 9vh;
+  width: 10vh;
+  background-image: url('../images/rec_13.svg');
+}
+.rec_14 {
+  top: 36vh;
+  left: 36vh;
+  height: 9vh;
+  width: 12vh;
+  background-image: url('../images/rec_14.svg');
+}
+
+.rec_7_orange {
+  top: 33vh;
+  left: 22vh;
+  height: 9vh;
+  width: 12vh;
+  background-image: url('../images/rec_7_orange.svg');
+}
+.rec_8_orange {
+  top: 16vh;
+  left: 54vh;
+  height: 8vh;
+  width: 10vh;
+  background-image: url('../images/rec_8_orange.svg');
+}
+.rec_9_orange {
+  top: 41vh;
+  left: 13vh;
+  height: 9vh;
+  width: 11vh;
+  background-image: url('../images/rec_9_orange.svg');
+}
+.rec_10_orange {
+  top: 43vh;
+  left: 47vh;
+  height: 8vh;
+  width: 12vh;
+  background-image: url('../images/rec_10_orange.svg');
+}
+.rec_11_orange {
+  top: 46vh;
+  left: 28vh;
+  height: 9vh;
+  width: 11vh;
+  background-image: url('../images/rec_11_orange.svg');
+}
+.rec_13_orange {
+  top: 21vh;
+  left: 29vh;
+  height: 9vh;
+  width: 10vh;
+  background-image: url('../images/rec_13_orange.svg');
+}
+
+.afisha_3 {
+  position: absolute;
+  top: 12vh;
+  left: 9vh;
+  height: 8vh;
+  width: 67vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1vh;
+}
+.afisha_3_1_rec {
+  background-image: url('../images/afisha_3_1_rec.svg');
+}
+.afisha_3_2_rec {
+  background-image: url('../images/afisha_3_2_rec.svg');
+}
+.afisha_3_3_rec {
+  background-image: url('../images/afisha_3_3_rec.svg');
+}
+
+.afisha_3_1 {
+  position: relative;
+  height: 8vh;
+  width: 25vh;
+}
+.afisha_3_2 {
+  position: relative;
+  height: 8vh;
+  width: 19vh;
+}
+.afisha_3_3 {
+  position: relative;
+  height: 8vh;
+  width: 21vh;
+}
+.afisha_3 > div > p {
+  position: absolute;
+  top: 4.4vh;
+  left: 9.3vh;
+}
+.afisha_3 > div > div {
+  height: 7vh;
+  width: 10vh;
+  position: absolute;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+.afisha_text_9 {
+  top: 1.7vh;
+  left: 43.3vh;
+  transform: rotate(39deg);
+}
+.afisha_text_10 {
+  top: 7.8vh;
+  left: 55.8vh;
+  transform: rotate(12deg);
+}

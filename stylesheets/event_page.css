@@ -1,0 +1,10 @@
+.event_page_box_1 {
+  width: 140vh;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url('../images/event_page.svg');
+}
